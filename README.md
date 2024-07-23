@@ -42,13 +42,13 @@ This Banking Application is designed to handle basic banking operations such as 
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](Banking-Application-main/Banking-Application-main/images/admin_dashboard.png)
+![Admin Dashboard](images/admin_dashboard.png)
 
 ### Customer Registration
-![Customer Registration](Banking-Application-main/Banking-Application-main/images/customer_registration.png)
+![Customer Registration](images/customer_registration.png)
 
 ### Customer Dashboard
-![Customer Dashboard](Banking-Application-main/Banking-Application-main/images/customer_dashboard.png)
+![Customer Dashboard](images/customer_dashboard.png)
 
 ### Transaction History
-![Transaction History](Banking-Application-main/Banking-Application-main/images/transaction_history.png)
+![Transaction History](images/transaction_history.png)
